@@ -7,7 +7,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -g
 
 # Target executable
-TARGET = shell
+TARGET = myshell
 
 # Source files
 SRC = shell.c
